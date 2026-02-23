@@ -1,0 +1,65 @@
+{
+  "cesp_version": "1.0",
+  "name": "starrail-Kafka-peon-pack",
+  "display_name": "崩坏星穹铁道-卡芙卡",
+  "version": "1.0.0",
+  "author": { "name": "miki0w0", "github": "0w0miki" },
+  "license": "CC-BY-NC-4.0",
+  "language": "cn",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        { "file": "sounds/hi.wav", "label": "嗨，又见面啦" },
+        { "file": "sounds/hi-himeko.wav", "label": "嗨，星穹列车我们携手作战的机会，看来不少呢" }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        { "file": "sounds/farewell.wav", "label": "该说再见了…" },
+        { "file": "sounds/time-end.wav", "label": "美妙的时光总有尽头" },
+        { "file": "sounds/byebye.wav", "label": "拜拜，下一次试着让我意外吧" }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        { "file": "sounds/complete-soon.wav", "label": "很快就好" },
+        { "file": "sounds/do-all.wav", "label": "索性都干掉吧~" },
+        { "file": "sounds/just-in-time.wav", "label": "来得好" },
+        { "file": "sounds/start.wav", "label": "那么从现在开始行动由我接手" }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        { "file": "sounds/can-use.wav", "label": "能用" },
+        { "file": "sounds/well-done.wav", "label": "做得不错" },
+        { "file": "sounds/expected.wav", "label": "毫不意外" },
+        { "file": "sounds/complete.wav", "label": "这一次的剧本也顺利完成了" }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        { "file": "sounds/interesting.wav", "label": "有点意思" },
+        { "file": "sounds/not-the-end.wav", "label": "这还…不是结局" },
+        { "file": "sounds/oops.wav", "label": "有些难办" },
+        { "file": "sounds/found-enemy.wav", "label": "嗯？看他们蠢蠢欲动的样子……" }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        { "file": "sounds/time-to-move.wav", "label": "该动手啦" },
+        { "file": "sounds/not-in-script.wav", "label": "剧本上没写的，我们决定就好" }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        { "file": "sounds/stop.wav", "label": "停下来" },
+        { "file": "sounds/relax.wav", "label": "放轻松" }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        { "file": "sounds/wait.wav", "label": "欲速则不达" }
+      ]
+    }
+  }
+}
