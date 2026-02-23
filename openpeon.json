@@ -1,11 +1,11 @@
 {
   "cesp_version": "1.0",
-  "name": "starrail-Kafka-peon-pack",
-  "display_name": "崩坏星穹铁道-卡芙卡",
-  "version": "1.0.0",
-  "author": { "name": "miki0w0", "github": "0w0miki" },
+  "name": "starrail-kafka-peon-pack",
+  "display_name": "崩坏星穹铁道-卡芙卡语音包",
+  "version": "1.0.1",
+  "author": { "name": "0w0miki", "github": "0w0miki" },
   "license": "CC-BY-NC-4.0",
-  "language": "cn",
+  "language": "zh",
   "categories": {
     "session.start": {
       "sounds": [
